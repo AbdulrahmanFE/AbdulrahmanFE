@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">, I'm Abdulrahman</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cairo&color=%23555555&size=24&duration=2500&center=true&vCenter=true&lines=I'm+a+self-taught+developer;...;Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cairo&color=%23555555&size=24&duration=2500&center=true&vCenter=true&lines=I'm+a+self-taught+developer;...;Frontend+Developer)](https://git.io/typing-svg)
 
 </div>
 
