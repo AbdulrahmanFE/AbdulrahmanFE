@@ -21,39 +21,39 @@
 
 <div align="left" style="display: flex">
   <a href="#" target="_blank" rel="noreferrer"  title="vscode">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" style="padding-right: 10px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" style="padding-right: 15px" />
   </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"  title="HTML">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" alt="html5" width="40" height="40" style="padding-right: 10px" /> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" alt="html5" width="40" height="40" style="padding-right: 15px" /> 
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"  title="CSS">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" alt="css3" width="40" height="40" style="padding-right: 10px" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" alt="css3" width="40" height="40" style="padding-right: 15px" />
   </a> 
 <!--
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"  title="JavaScript"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="padding-right: 10px" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="padding-right: 15px" />
     </a>
   <a href="https://jquery.com/" target="_blank" rel="noreferrer" title="Jquery"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40" style="padding-right: 10px" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40" style="padding-right: 15px" />
     </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="Bootstrap">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" style="padding-right: 10px" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" style="padding-right: 15px" />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg" alt="react" width="40" height="40" style="padding-right: 10px" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg" alt="react" width="40" height="40" style="padding-right: 15px" />
   </a> 
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"  title="Sass"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="padding-right: 10px" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="padding-right: 15px" />
   </a> 
 -->
   <a href="#" target="_blank" rel="noreferrer" title="Codepen">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/codepen/codepen-plain.svg" alt="Codepen" width="40px" height="40" style="padding-right: 10px" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/codepen/codepen-plain.svg" alt="Codepen" width="40px" height="40" style="padding-right: 15px" />
   </a> 
   <a href="#" target="_blank" rel="noreferrer" title="GitHub">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg" alt="Github" width="40px" height="40" style="padding-right: 10px" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg" alt="Github" width="40px" height="40" style="padding-right: 15px" />
   </a> 
   <a href="#" target="_blank" rel="noreferrer" title="Git">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" alt="git" width="40" height="40" style="padding-right: 10px" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" alt="git" width="40" height="40" style="padding-right: 15px" />
   </a> 
 </div>
 
